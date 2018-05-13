@@ -208,6 +208,14 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.psn %}
+        <li>
+          <a href="https://my.playstation.com/profile/{{ author.psn }}" itmeprop="sameAs">
+            <i class="fab fa-fw fa-playstation" aria-hidden="true"></i> PlayStation
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.youtube %}
         {% if author.youtube contains "://" %}
