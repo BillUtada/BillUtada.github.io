@@ -136,7 +136,7 @@
           </a>
         </li>
       {% endif %}
-
+      
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
@@ -192,7 +192,15 @@
           </a>
         </li>
       {% endif %}
-
+      
+      {% if author.zhihu %}
+        <li>
+          <a href="https://zhihu.com/people/{{ author.zhihu }}" itemprop="sameAs">
+            <i class="far fa-fw fa-comment-dots" aria-hidden="true"></i> 知乎
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.steam %}
         <li>
           <a href="https://steamcommunity.com/id/{{ author.steam }}" itemprop="sameAs">

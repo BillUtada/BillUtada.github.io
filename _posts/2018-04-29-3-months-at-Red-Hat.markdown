@@ -1,0 +1,41 @@
+---
+layout: single 
+author_profile: true
+---
+在红帽3个月，学到很多，主要是自己看文档，不过有一个舒服的工作环境也是极棒的。
+总结过去的三个月，也希望以后能接触更多方面的知识。
+### 学到了什么
+ 1. git / github / github page with jekyll
+ 2. gerrit / custom gerrit by 'config' branch
+ 3. python / nose / unittest
+ 4. shell / linux CLI
+ 5. Markdown
+ 6. Jenkins CI基础
+ 7. Automation Testing Framework 开发
+ 8. Test Case 开发
+ 9. 公司工具的使用 ( openstack / mail / beaker / etherpad / CDN etc. )
+ 10. 通过google docs了解了在墙外才能正常工作的现实
+ 11. 软件版本 ( alpha / beta / RC / Snapshot / Release / GA etc. )
+ 12. (至少是Red Hat等传统软件公司的) 工作/开会/邮件沟通方式
+ 13. ...
+
+### 小结
+对于3个月的时间来讲，学到的东西可能并不算多，而且其中还有很多坑，还有的仅仅只是停留在基础层面。希望接下来的3个月的工作可以更加努力一些，学到更多东西。
+
+每天工作时间稳定在早10点至晚6点，中间尽量除了回微信不要做其他技术无关的事。除非不吃就会饿死，杜绝零食和含糖饮料。
+
+尽力帮助同事们解决问题。避免问出无意义问题，避免问出别人明显不知道的问题。
+
+少吃，减肥。注意形象。
+
+打PS4不要影响正常生活。
+
+Be patient.
+
+### 后3个月应加强这些方面
+1. 学校的6门课程抽时间看 尤其是物理和数学
+2. 熟悉 python / shell 多写
+3. 熟悉 linux
+4. 熟悉 Jenkins
+5. 英语 / 日语
+6. ...
