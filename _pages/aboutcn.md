@@ -3,17 +3,16 @@ title: "简历"
 permalink: /aboutcn/
 ---
 
+---
 # 个人信息
 
  - 赵威 (William Zhao) / 男 
  - 南京邮电大学软件工程 大三在读 
- - 主页：billutada.github.io
- - 投递职位：Developer Tools Software Quality Assurance Intern - Shanghai
 
+---
 # 工作经历
  
-## Red Hat (2018.2 - 2018.7)
-### Quality Engineer
+## Red Hat (Quality Engineer)
 参与Redhat旗舰产品Red Hat Enterprise Linux (RHEL)的测试开发工作，负责订阅(Entitlement)功能的测试框架开发与维护，涉及产品有开源项目virt-who与Red Hat Subscription Manager (RHSM)。框架底层使用paramiko实现虚拟化测试。同时也参与了两个产品具体的测试用例(testcase)开发与整理发送自动化测试报告。
 
 该测试框架最大的难点有两个
@@ -25,13 +24,14 @@ permalink: /aboutcn/
 
 初次接触大公司的测试流程与测试细节，得到了方方面面的收获。得益于对python与linux的深刻理解，我迅速学习新的相关知识，初到公司一周便上手了测试框架的开发和维护工作，作为实习生，至今更是成为了该框架的主要维护者。
 
-## 完美世界 (2017.6 - 2017.10)
-### Mobile Game UI Programmer
-负责游戏**本茶纲目**UI部分，在Unity中实现基于NGUI的栈结构UI框架、实现部分gameplay框架与游戏脚本。
+## 完美世界 (Mobile Game UI Programmer) 
+负责手游UI部分，在Unity中实现基于NGUI的栈结构UI框架、实现部分gameplay框架与游戏脚本。
 作为一名热爱游戏者，带着对游戏的热情让我不断努力与进步。这个项目工作两个月时，策划突然要大改UI，前面一段时间的工作基本全部要重新来过。我尽最大努力，复用了很多代码，让工作量从计划的减少至少一半。
 这是我的第一份工作，我投入了很多热情和经历，但也让我认识到品质一般的游戏和无止尽的加班绝不是中国游戏的未来。
+
+---
 # Skills
-- 精通Linux，丰富的Linux经验
+- Linux，丰富的Linux经验
 - 深刻理解Python，nose，unittest模块，丰富的testcase开发经验
 - 理解Shell与Shell (bash)编程
 - 理解软件测试，虚拟化测试，自动化测试流程，有发送测试报告经验
@@ -46,7 +46,7 @@ permalink: /aboutcn/
 - 了解Mysql / C# / Java / html / css
 - 熟悉Openstack环境，熟悉微信公众号等开放平台
 
-
+---
 # 竞赛/会议经历
 - MCM/ICM美国大学生数学建模竞赛一等奖 (M奖)
 - ACM国际大学生程序设计竞赛上海区域赛铜奖
@@ -57,6 +57,7 @@ permalink: /aboutcn/
 - 南京邮电大学ACM程序设计竞赛一等奖 (第二名)
 - 甲骨文杯全国Java程序设计大赛华东赛区三等奖
 
+---
 # Open Source
 
 ## 项目
@@ -69,11 +70,9 @@ permalink: /aboutcn/
 - [绘制直线的光栅化算法](https://zhuanlan.zhihu.com/p/20213658)
 - [浅谈 C++ 中的 const 和 constexpr](https://zhuanlan.zhihu.com/p/20206577)
 
-# 联系方式与感谢
+---
+# 联系方式
 - 赵威 (William Zhao)
   - william.zhao.programmer@gmail.com
   - 17625909218
-
-作为热爱游戏与图形学的狂热分子，能加入Nvidia是我的梦想。
-感谢您花时间阅读我的简历，十分期待能有机会在核弹厂与您共事。
 
