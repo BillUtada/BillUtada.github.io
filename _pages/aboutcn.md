@@ -1,4 +1,4 @@
-﻿---
+---
 title: "简历"
 permalink: /aboutcn/
 ---
