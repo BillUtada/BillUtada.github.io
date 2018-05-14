@@ -1,6 +1,6 @@
 ---
 title: "Résumé"
-permalink: /aboutcn/
+permalink: /about/
 ---
 # Personal Info
 
