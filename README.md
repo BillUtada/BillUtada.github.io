@@ -1,4 +1,4 @@
-# BillUtada's Github Page
+# BillUtada's Page
 https://billutada.github.io
 
 # Contact
