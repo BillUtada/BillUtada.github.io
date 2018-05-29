@@ -6,4 +6,4 @@ author_profile: true
 花俏的shader留着以后工作去发挥，要先有扎实的基本功，才能弄的又快又绚。
 
 项目地址
-[UtadaRenderer](https://github.com/BillUtada/UtadaRenderer/blob/master/README.md)
+[UtadaRenderer](https://github.com/BillUtada/UtadaRenderer)
