@@ -11,8 +11,12 @@ permalink: /aboutcn/
 
 ---
 # 工作经历
- 
-## Red Hat (Quality Engineer)
+
+## Nvidia
+### Graphic Tools Dev
+
+## Red Hat
+### Quality Engineer
 参与Redhat旗舰产品Red Hat Enterprise Linux (RHEL)的测试开发工作，负责订阅(Entitlement)功能的测试框架开发与维护，涉及产品有开源项目virt-who与Red Hat Subscription Manager (RHSM)。框架底层使用paramiko实现虚拟化测试。同时也参与了两个产品具体的测试用例(testcase)开发与整理发送自动化测试报告。
 
 该测试框架最大的难点有两个
