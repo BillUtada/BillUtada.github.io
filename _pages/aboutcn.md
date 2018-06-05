@@ -17,21 +17,10 @@ permalink: /aboutcn/
 
 ## Red Hat
 ### Quality Engineer
-参与Redhat旗舰产品Red Hat Enterprise Linux (RHEL)的测试开发工作，负责订阅(Entitlement)功能的测试框架开发与维护，涉及产品有开源项目virt-who与Red Hat Subscription Manager (RHSM)。框架底层使用paramiko实现虚拟化测试。同时也参与了两个产品具体的测试用例(testcase)开发与整理发送自动化测试报告。
-
-该测试框架最大的难点有两个
- 1. 测试环境异常多变复杂，用户的hypervisor产品有近10种选择，并且部署平台不统一
- 2. 每天都会有上千条用户报的千奇百怪的user case，要及时发现其中有效的，并实现为testcase
-
-对于第一点，我们通过paramiko完成与unix-like的通信，对于windows平台通过socket，手动开启监听端口从而实现linux与windows的交互。对于多种hypervisor产品，我们在jenkins里进行了分类处理，通过docker同时运行多个job实现虚拟化测试，快速得到测试结果，这也是最令我满意的实现细节。
-对于第二点，我使用正则模块编写了过滤器，能有效准确发现有效case，进而交给维护testcase的同事们处理，这样工作负担就少了很多。
-
-初次接触大公司的测试流程与测试细节，得到了方方面面的收获。得益于对python与linux的深刻理解，我迅速学习新的相关知识，初到公司一周便上手了测试框架的开发和维护工作，作为实习生，至今更是成为了该框架的主要维护者。
+参与Redhat旗舰产品Red Hat Enterprise Linux (RHEL)的测试开发工作，负责订阅(Entitlement)功能的测试框架开发与维护，涉及产品有开源项目virt-who与Red Hat Subscription Manager (RHSM)
 
 ## 完美世界 (Mobile Game UI Programmer) 
 负责手游UI部分，在Unity中实现基于NGUI的栈结构UI框架、实现部分gameplay框架与游戏脚本。
-作为一名热爱游戏者，带着对游戏的热情让我不断努力与进步。这个项目工作两个月时，策划突然要大改UI，前面一段时间的工作基本全部要重新来过。我尽最大努力，复用了很多代码，让工作量从计划的减少至少一半。
-这是我的第一份工作，我投入了很多热情和经历，但也让我认识到品质一般的游戏和无止尽的加班绝不是中国游戏的未来。
 
 ---
 # Skills
