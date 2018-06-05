@@ -10,8 +10,11 @@ permalink: /about/
  - Apply for：Developer Tools Software Quality Assurance Intern - Shanghai
 
 # Working Exp
- 
-## Red Hat (Beijing) ( 2018.2 - 2018.7 )
+
+## Nvidia (2018.6 - Present)
+### Graphic Tools Dev
+
+## Red Hat( 2018.2 - 2018.6 )
 ### Quality Engineer
 Be part of Red Hat's flagship product Red Hat Enterprise Linux (RHEL)'s QA work. In charge of Testing Entitlement module, which covers two products: open-source product virt-who and Red Hat Subscription Manager (RHSM).
 We use paramiko module to realize virt testing, and I also take responsibility of testcase decelopment and sending test report.
