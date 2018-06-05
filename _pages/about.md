@@ -16,16 +16,7 @@ permalink: /about/
 
 ## Red Hat( 2018.2 - 2018.6 )
 ### Quality Engineer
-Be part of Red Hat's flagship product Red Hat Enterprise Linux (RHEL)'s QA work. In charge of Testing Entitlement module, which covers two products: open-source product virt-who and Red Hat Subscription Manager (RHSM).
-We use paramiko module to realize virt testing, and I also take responsibility of testcase decelopment and sending test report.
-
-The biggest difficulty with this test framework contains two:
- 1. The testing environment is extremely changeable and complex. The user's hypervisor products have nearly 10 options, and the deployment platform is not uniform.
- 2. Every day there will be thousands of cases reported by our users. It is necessary to find out which ones are valid and realize them as test cases.
-
-For the first point, we use paramiko to complete the communication with Unix-like host. And for the windows platform through the socket, which needs to manually open the listen port to achieve linux and windows interaction. For multiple hypervisor products, we categorized them in jenkins, running multiple jobs at the same time using docker to achieve virtualized tests and get test results quickly. This is the implementation detail that satisfied me most.
-For the second point, I used re module to write filters that can effectively and accurately find valid cases and then hand them to my colleagues who maintain the test cases.
-
+Be part of Red Hat's flagship product **Red Hat Enterprise Linux** (RHEL)'s QA work. In charge of Testing Entitlement module, which covers two products: open-source product virt-who and Red Hat Subscription Manager (RHSM).
 
 ## Perfect World (Beijing) (2017.6 - 2017.10 )
 ### Mobile Game UI Programmer
