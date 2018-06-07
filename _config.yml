@@ -90,7 +90,7 @@ author:
   avatar           : /assets/36080029.jpeg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Game / CG / QA"
   location         : "Beijing, China"
-  email            : "william.zhao.programmer@gmail.com"
+  email            : "wizhao@nvidia.com"
   uri              :
   zhihu            : bill-utada 
   home             : # null (default), "absolute or relative url to link to author home"
