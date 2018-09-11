@@ -19,6 +19,15 @@ Optimization, debugging, documentation.
 
 
 
+任职要求精简版：
+1. 3D数学
+2. C++
+3. HLSL shader programming
+4. 了解GPU
+5. 游戏优化经验
+6. 软件开发流程/原型制作/迭代
+7. 英语口语/写作
+
 任职要求：
 
 Bachelor’s Degree in Computer Science/Engineering or equivalent.
@@ -42,3 +51,4 @@ Experienced in prototyping and iterative development.
 Good written and verbal English.
 
 Experience of console game development, multithreaded programming and GPU programming are highly appreciated.
+
