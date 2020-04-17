@@ -86,11 +86,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "William Zhao"
+  name             : "BillUtada"
   avatar           : /assets/36080029.jpeg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graphics / GameDev / 想吃燒烤"
-  location         : "Shanghai"
-  email            : "wizhao@nvidia.com"
+  location         : "Shenzhen"
+  email            : "billwzhao@tencent.com"
   uri              :
   zhihu            : bill-utada 
   home             : # null (default), "absolute or relative url to link to author home"
